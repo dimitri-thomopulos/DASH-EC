@@ -4,7 +4,7 @@
 Data Sharing for Renewable Energy Communities (DASH-REC) is a repository for datasets and code resources aimed at studying and supporting the management of Renewable Energy Communities (RECs).
 
 ## Contents
-**REC-Pisa_v0_99.csv**: This file contains a sample dataset demonstrating the data fields and their organization for energy community management.
+**REC-Pisa-15_4_288.csv**: This file contains a sample dataset demonstrating the data fields and their organization for energy community management.
 
 ## Usage
 The dataset can be used as a starting point for developing applications, conducting research, or exploring data analysis techniques specific to energy community management. Feel free to utilize the data to gain insights, develop models, or prototype your own solutions.
