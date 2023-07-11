@@ -3,7 +3,8 @@
 # Instances
 
 ## Contents
-This folder contains all the available data for the considered case studies
+This folder contains all the available data for the considered case studies.
+- [**REC-Pisa-15_4_288**](https://github.com/dimitri-thomopulos/DASH-REC/tree/main/Instances/REC-Pisa-15_4_288): This folder contains a sample dataset demonstrating the data fields and their organization for energy community management.
 
 ## Usage
 Each case study or instance is contained in the corresponding folder that contains the data files in DASH-REC format and available extensions. In addition where available there is also a specific explanation of the related data.
