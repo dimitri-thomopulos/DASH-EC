@@ -1,8 +1,5 @@
 ![DASH-REC](https://github.com/dimitri-thomopulos/DASH-REC/assets/62555073/6e350d32-6a4c-49dd-88a9-598cd47e8183)
 
-
-Data Sharing for Renewable Energy Communities (DASH-REC) is a repository for datasets and code resources aimed at studying and supporting the management of Renewable Energy Communities (RECs).
-
 # Instances
 
 ## Contents
