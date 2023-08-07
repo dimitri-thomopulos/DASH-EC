@@ -5,7 +5,7 @@ Data Sharing for Energy Communities (DASH-EC) is a repository for datasets and c
 
 ## Contents
 - [**Instances**](https://github.com/dimitri-thomopulos/DASH-EC/tree/main/Instances): This folder contains all the available data for the considered case studies
-  - [**REC-Pisa-15_4_288**](https://github.com/dimitri-thomopulos/DASH-EC/tree/main/Instances/EC-Pisa-15_4_288): This folder contains a sample dataset demonstrating the data fields and their organization for energy community management.
+  - [**EC-Pisa-15_4_288**](https://github.com/dimitri-thomopulos/DASH-EC/tree/main/Instances/EC-Pisa-15_4_288): This folder contains a sample dataset demonstrating the data fields and their organization for energy community management.
 
 ## Usage
 The dataset can be used as a starting point for developing applications, conducting research, or exploring data analysis techniques specific to energy community management. Feel free to utilize the data to gain insights, develop models, or prototype your own solutions.
