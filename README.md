@@ -13,7 +13,7 @@ The dataset can be used as a starting point for developing applications, conduct
 ## Contributing
 As the repository currently contains only an example dataset, contributions in the form of feedback, suggestions, or additional datasets related to energy community management are highly welcome. 
 
-## REC format manual
+## EC format manual
 A comprehensive manual outlining the data format will be made available in the near future, providing detailed instructions and information.
 
 ## License
