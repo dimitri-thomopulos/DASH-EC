@@ -1,4 +1,4 @@
-![DASH-EC](https://github.com/dimitri-thomopulos/DASH-REC/assets/62555073/6e350d32-6a4c-49dd-88a9-598cd47e8183)
+![DASH-EC](https://github.com/dimitri-thomopulos/DASH-EC/assets/62555073/4e0474b4-2ed2-4c1c-8d1e-002d57550357)
 
 # Instances
 
