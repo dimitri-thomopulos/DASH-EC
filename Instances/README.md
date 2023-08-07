@@ -13,7 +13,7 @@ The general rule for naming each instance is to begin with the term *EC*, then s
 An example of a name is *EC-Pisa-15_4_288* where *Pisa* indicates the name of the province to which the data are referenced, *15* is the duration in minutes of each period, *4* are the time intervals considered,  and *288* is the duration in periods of each interval.
 
 ## License
-The code and instances provided within DASH-REC are freely available for non-commercial use. However, if you choose to utilize them, it is necessary to provide proper attribution and reference.
+The code and instances provided within DASH-EC are freely available for non-commercial use. However, if you choose to utilize them, it is necessary to provide proper attribution and reference.
 
 ##  Contacts
 For any questions, concerns, or inquiries regarding this dataset or repository, please reach out to dimitri[dot]thomopulos[at]unipi[dot]it.
