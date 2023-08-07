@@ -16,7 +16,7 @@ As the repository currently contains only an example dataset, contributions in t
 A comprehensive manual outlining the data format will be made available in the near future, providing detailed instructions and information.
 
 ## License
-The code and instances provided within DASH-REC are freely available for non-commercial use. However, if you choose to utilize them, it is necessary to provide proper attribution and reference.
+The code and instances provided within DASH-EC are freely available for non-commercial use. However, if you choose to utilize them, it is necessary to provide proper attribution and reference.
 
 ## Acknowledgements
 The research has been carried out in the framework of the project “AUTENS” (Sustainable Energy Autarky), 730 funded by the University of Pisa, Italy (PRA 2020 programme).
